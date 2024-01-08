@@ -13,7 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.2",
-    "openai": "^4.20.1",
+    "openai": "^4.24.1",
     "ytdl-core": "^4.11.5"
   }
 }
