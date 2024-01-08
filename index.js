@@ -1,11 +1,9 @@
 import fs from "node:fs";
 import OpenAI from "openai";
 
-
 const openai = new OpenAI({
   apiKey: process.env.OPENAI_API_KEY,
 });
-
 
 async function transcribeAudio(audioFilePath) {
   const audioFile = fs.createReadStream(audioFilePath);
@@ -20,7 +18,6 @@ async function transcribeAudio(audioFilePath) {
     console.error("Error:", error);
   }
 }
-
 
 const transcription = await transcribeAudio("./audio.mp3")
 console.log(transcription);
