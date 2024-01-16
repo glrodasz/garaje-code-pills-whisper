@@ -1,5 +1,5 @@
-## Convierte audio a texto con Whisper
-Este proyecto hace parte del siguiente video: https://youtu.be/<URL>
+## Convierte Audio a Texto con Whisper AI
+Este proyecto hace parte del siguiente video: https://youtu.be/Du9qdVEogR0
 
 ## Lista de mis otros Garaje Code Pills
 https://youtube.com/playlist?list=PLKBvDYynKmlWPWyoTOizls8nui87vlBXg
